@@ -12,14 +12,16 @@
 ## **GitHub Estatísticas**
 <div>
   <a href="https://github.com/rafaelfaiac">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelfaiac&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfaiac&layout=compact&langs_count=7&theme=nord"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelfaiac&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfaiac&layout=compact&langs_count=7&theme=nord"/>
 </div>
  
  ## **Linguagens e Ferramentas:**
  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273079857725490/Component_14.png">
  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273079576711210/Component_13.png">
  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273102049804298/Component_15.png">
+ <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273065831985162/Component_7.png">
+ <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273064225542215/Component_6.png">
 </div>
   
   ##
