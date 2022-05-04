@@ -5,9 +5,9 @@
 * Meu nome é Rafael Faia.
 * Eu tenho, atualmente, 22 anos.
 * Moro em Santos-SP.
-* Estou no último semestre da faculdade de ADS.
+* Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC-BS.
 * Estudando HTML, CSS e JavaScript por conta própria.
-* Atualmente desempregado, em busca de uma oportunidade.
+* Atualmente estou empregado na MSC, como Desenvolvedor de Software.
 
 ## **GitHub Estatísticas**
 <div>
