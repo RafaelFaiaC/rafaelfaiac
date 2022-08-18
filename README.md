@@ -3,7 +3,7 @@
 <img align="right" width="300" height="168" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 * Meu nome é Rafael Faia.
-* Eu tenho, atualmente, 22 anos.
+* Eu tenho, atualmente, 23 anos.
 * Moro em Santos-SP.
 * Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC-BS.
 * Estudando HTML, CSS e JavaScript por conta própria.
