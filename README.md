@@ -6,7 +6,7 @@
 * Eu tenho, atualmente, 23 anos.
 * Moro em Santos-SP.
 * Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC-BS.
-* Estudando HTML, CSS e JavaScript por conta própria.
+* Estudando programação por conta própria.
 * Atualmente estou empregado na MSC, como Desenvolvedor de Software.
 
 ## **GitHub Estatísticas**
