@@ -17,6 +17,7 @@
 </div>
  
  ## **Linguagens e Ferramentas:**
+<div>
  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273079857725490/Component_14.png">
  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273079576711210/Component_13.png">
  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273102049804298/Component_15.png">
