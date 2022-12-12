@@ -7,7 +7,7 @@
 * Moro em Santos-SP.
 * Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC-BS.
 * Estudando programação por conta própria.
-* Atualmente estou empregado na MSC, como Desenvolvedor de Software.
+* Atualmente estou empregado na Neogrid, como Desenvolvedor Junior.
 
 ## **GitHub Estatísticas**
 <div>
