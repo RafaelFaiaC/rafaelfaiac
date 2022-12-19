@@ -11,9 +11,9 @@
 
 ## **GitHub Estatísticas**
 <div>
-  <a href="https://github.com/rafaelfaiac">
+  <a href="https://github.com/RafaelFaiaC">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelFaiaC&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFaiaC&layout=compact&langs_count=7&theme=nord"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFaiaC&layout=compact&langs_count=6&theme=nord"/>
 </div>
  
  ## **Linguagens e Ferramentas:**
